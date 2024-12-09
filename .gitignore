@@ -1,1 +1,6 @@
+
+# ignore models
 models/
+
+# ignore Azure Machine Learning auto-generated files
+*aml*
